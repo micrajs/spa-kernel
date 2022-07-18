@@ -1,6 +1,6 @@
 {
   "name": "@micra/spa-kernel",
-  "version": "0.1.0-next.0",
+  "version": "0.1.0-next.1",
   "description": "Micra's SPA kernel.",
   "repository": {
     "type": "git",
