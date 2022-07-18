@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-non-null-assertion */
 import type {Location} from 'history';
 import {createRequestFromLocation} from '../utilities/createRequestFromLocation';
 
