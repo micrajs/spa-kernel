@@ -1,5 +1,12 @@
 import { defineConfig } from '@micra/vite-config/library';
 
 export default defineConfig({
-  plugins: [],
+  build: {
+    rollupOptions: {
+      external: [
+        '@micra/core',
+        '@micra/error',
+      ],
+    },
+  },
 });
